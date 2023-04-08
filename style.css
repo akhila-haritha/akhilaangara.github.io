@@ -1,0 +1,44 @@
+ul{
+
+	list-style-type:none;
+
+}
+
+.navbar{
+	background-color:#18122B;
+}
+
+a{
+	text-decoration:none;
+	font-family:"Righteous",Monospace;
+	color:white;
+	font-size:40px;
+}
+
+body{
+	background-color:#443C68;}
+
+a:link{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:white;
+}
+
+#intro{
+	font-family:"Righteous",Monospace;
+	color:white;
+	font-size:60px;
+	
+
+}
+
+#skillset{
+	background-color:#FFFBF5;
+}
+
