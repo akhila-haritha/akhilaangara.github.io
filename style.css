@@ -12,7 +12,7 @@ a{
 	text-decoration:none;
 	font-family:"Righteous",Monospace;
 	color:white;
-	font-size:40px;
+	font-size:35px;
 }
 
 body{
@@ -33,12 +33,21 @@ a:hover{
 #intro{
 	font-family:"Righteous",Monospace;
 	color:white;
-	font-size:60px;
+	font-size:40px;
 	
 
 }
 
 #skillset{
 	background-color:#FFFBF5;
+}
+
+
+#projects{
+	background-color:#FFFBF5;
+}
+
+#pr{
+	color:#332C39;
 }
 
